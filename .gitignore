@@ -1,0 +1,9 @@
+bin/
+lib/
+etc/
+local/
+include/
+checkpoint
+share/
+*.ckpt.*
+
